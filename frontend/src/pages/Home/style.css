@@ -1,0 +1,92 @@
+/* /* * {
+  margin: 0;
+  padding: 0;
+} */
+
+/*.home-wrapper {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  inset: 0 0 0 0;
+  background-position: center;
+  background-size: cover;
+}
+
+.home-wrapper .home-first-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.home-wrapper .home-content {
+  width: 767px;
+  height: 234px;
+  margin-top: 345px;
+  margin-left: 57px;
+  display: flex;
+}
+
+.home-wrapper .home-content h1 {
+  font-family: Montserrat;
+  font-size: 76px;
+  font-weight: 700;
+  line-height: 117px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.home-wrapper .home-first-container span.home-fspan {
+  color: #0038ff;
+}
+
+.home-wrapper .home-first-container span.home-sspan {
+  color: #ff0000;
+}
+
+.home-wrapper .home-sec-container {
+  width: 100%;
+  height: 100%;
+  left: -16px;
+  background-color: #ffda6f;
+  display: block;
+  padding-top: 16px;
+}
+
+.home-wrapper .home-item-container2 {
+  margin-left: 57px;
+  gap: 15px;
+}
+
+.home-wrapper .home-title {
+  width: 727px;
+  height: 78px;
+}
+
+.home-wrapper .home-title h2 {
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 78px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.home-wrapper .home-par {
+}
+
+.home-wrapper .home-cn {
+  background-color: black;
+  border-radius: 5px;
+}
+
+.home-wrapper .home-cn a {
+  color: aliceblue;
+}
+
+.home-wrapper .home-third-container {
+  width: 1440px;
+  height: 434px;
+  top: 1576px;
+  left: -720px;
+  border: 1px;
+} */

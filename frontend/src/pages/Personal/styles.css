@@ -1,0 +1,98 @@
+.personal-container {
+  background: #ffda6f;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "montserrat";
+  font-size: 18px;
+  padding: 100px 0px;
+}
+
+.personal-container .profile {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+
+.personal-container .ava-name-rate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.personal-container .ava-name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.personal-container .rname {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.personal-container .avatar {
+  margin-right: auto;
+  width: 300px;
+  height: 300px;
+  border: 0;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.personal-container .profile-text-history {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.personal-container .profile-text {
+  margin-top: 50px;
+  margin-left: auto;
+}
+
+.personal-container .history {
+  margin-right: auto;
+}
+
+.skill-entry {
+  align-items: center;
+  height: 40px;
+  background: #000000;
+  color: #ffffff;
+  font-weight: 700;
+  margin: 0px 10px;
+  padding: 8px 20px;
+  border: 0;
+  border-radius: 20px;
+}
+
+.personal-container .h5 {
+  font-weight: 700;
+  margin: 10px 0px;
+  color: #000;
+}
+
+.personal-container .h5 span {
+  margin-left: 5px;
+  font-weight: 400;
+}
+
+.personal-container .subhead {
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.personal-container .mentor-profile {
+  font-weight: 700;
+  color: #000;
+}
+
+.personal-container .mentor-profile:hover {
+  font-weight: 700;
+  color: #00aacc;
+}

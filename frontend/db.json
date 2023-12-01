@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Slay Squad",
+      "sex": "Female",
+      "mail": "slaysquad@gmail.com",
+      "birth": "2003-10-15",
+      "skills": [
+        "Công nghệ thông tin",
+        "Front-end Developer"
+      ],
+      "level": "Không chuyên",
+      "rate": [],
+      "plan": "Premium",
+      "ava": "https://images.unsplash.com/photo-1515073838964-4d4d56a58b21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxhc2lhbiUyMHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Phạm Minh Tú",
+      "sex": "Female",
+      "mail": "emmy@gmail.com",
+      "birth": "1990-11-10",
+      "skills": [
+        "Project Manager",
+        "Công nghệ thông tin"
+      ],
+      "level": "Chuyên nghiệp",
+      "rate": [
+        4
+      ],
+      "plan": "Premium",
+      "ava": "https://images.unsplash.com/photo-1543270122-f7a11ad44f3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGFzaWFuJTIwcGVvcGxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Lê Gia Linh",
+      "sex": "Female",
+      "mail": "linhle@gmail.com",
+      "birth": "2002-12-09",
+      "skills": [
+        "Công nghệ thông tin",
+        "UI/UX"
+      ],
+      "level": "Không chuyên",
+      "rate": [
+        3.2
+      ],
+      "plan": "Premium",
+      "ava": "https://images.unsplash.com/photo-1606406054219-619c4c2e2100?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFzaWFuJTIwZ2lybHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60m%2Ffr%2Fphotos%2FCePy-BCJ7pM"
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Minh Anh",
+      "sex": "Female",
+      "mail": "minhanh@gmail.com",
+      "birth": "1997-01-02",
+      "skills": [
+        "Data engineer",
+        "Công nghệ thông tin",
+        "Data"
+      ],
+      "level": "Không chuyên",
+      "rate": [
+        4
+      ],
+      "plan": "Premium",
+      "ava": "https://images.unsplash.com/photo-1515036813970-3beada24ab5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80m%2Ffr%2Fphotos%2FcZAj2txBFO8"
+    },
+    {
+      "id": 5,
+      "name": "Trần Lê Minh",
+      "sex": "Male",
+      "mail": "minhtran@gmail.com",
+      "birth": "1993-04-12",
+      "skills": [
+        "Công nghệ thông tin",
+        "Machine Learning",
+        "AI"
+      ],
+      "level": "Không chuyên",
+      "rate": [
+        3.5
+      ],
+      "plan": "Premium",
+      "ava": "https://images.unsplash.com/photo-1544168190-79c17527004f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXNpYW4lMjBwZW9wbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Nguyễn Anh Tú",
+      "sex": "Male",
+      "mail": "tunguyen@gmail.com",
+      "birth": "1980-11-11",
+      "skills": [
+        "Thạc sĩ, Bác sĩ Tâm lý"
+      ],
+      "level": "Chuyên nghiệp",
+      "rate": [
+        4
+      ],
+      "plan": "Premium",
+      "ava": "https://plus.unsplash.com/premium_photo-1661398760070-30982ccd1643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGFzaWFuJTIwb2xkJTIwbWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "connects": [
+    {
+      "id": 2,
+      "userId": 1,
+      "mentorId": 4
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "mentorId": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "mentorId": 3
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "mentorId": 3
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "mentorId": 3
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "mentorId": 2
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "mentorId": 3
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "mentorId": 1
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "mentorId": 3
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "mentorId": 3
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "mentorId": 2
+    }
+  ]
+}

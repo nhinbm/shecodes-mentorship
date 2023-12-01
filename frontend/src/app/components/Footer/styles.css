@@ -1,0 +1,120 @@
+.footer-container {
+  font-family: "montserrat";
+  display: flex;
+  position: relative;
+  left: 0;
+  width: 100%;
+  text-decoration: none;
+  background: #fffdf1;
+  height: 200px;
+}
+
+.footer-container a {
+  color: #000000;
+}
+
+.footer-container a:hover {
+  color: #00aacc;
+}
+
+.footer-container ::placeholder {
+  font-family: "montserrat";
+}
+
+.footer-container .privacy-container {
+  display: flex;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  align-items: center;
+  background: #ffda6f;
+  height: 30px;
+}
+
+.footer-container .privacy-policy {
+  font-weight: 700;
+  padding: 0px 100px;
+}
+
+.footer-container .footer-nav {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  margin-top: -20px;
+  margin-left: 50px;
+  gap: 20px;
+}
+
+.footer-container .brand {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  margin-left: 50px;
+  gap: 20px;
+}
+
+.footer-container .logo {
+  width: 50px;
+  height: 50px;
+}
+
+.footer-container .bridgen {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.footer-container .newsletter-form {
+  margin-top: 30px;
+}
+
+.footer-container input[type="email"] {
+  background: transparent;
+  height: 30px;
+  width: 240px;
+  border: 1px solid #d4d4d4;
+  border-radius: 20px;
+  padding: 12px 20px;
+}
+
+.footer-container .submit {
+  border: 0;
+  background: #000000;
+  color: #fffdf1;
+  font-weight: 700;
+  margin-left: 10px;
+  height: 30px;
+  width: 100px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: "montserrat";
+}
+
+.footer-container button:hover {
+  border: 0;
+  background-color: #00aacc;
+  color: #ffffff;
+}
+
+.footer-container button:disabled,
+button[disabled] {
+  border: 0;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.footer-container .h5 {
+  font-weight: 700;
+  text-decoration: none;
+  color: #000;
+}
+
+.footer-container .nav-link {
+  margin: 0px 10px;
+}
+
+.footer-container .contact {
+  margin-left: auto;
+  margin-right: 100px;
+  margin-top: 30px;
+}
